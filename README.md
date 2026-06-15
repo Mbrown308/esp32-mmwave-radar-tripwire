@@ -291,3 +291,4 @@ Walk side to side and watch the blip track your exact center of gravity.
 Walk away. The status will revert to BLOCKED, but the counter will remain at 1. The tripwire is re-armed and ready for the next target!
 
 Note: This hardware uses bare circuit boards. If you deploy this permanently outdoors, you MUST put the Transmitter in a waterproof plastic junction box. Millimeter-wave radar can see perfectly through plastic and glass, but it cannot see through metal. Do not put it in a metal box!
+Note: The code and troubleshooting guide for this project were developed with the assistance of an AI co-pilot (Gemini)
