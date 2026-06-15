@@ -1,6 +1,6 @@
 # esp32-mmwave-radar-tripwire
 A perimeter alarm built from scratch using Heltec ESP32-S3 boards, LoRa radio, and a 24GHz millimeter-wave radar sensor
-How to Build a Military-Grade mmWave Radar Tripwire (ESP32 LoRa)
+How to Build a mmWave Radar Tripwire (ESP32 LoRa)
 Level: Intermediate | Core Tech: ESP32-S3, LoRa Radio, mmWave Radar
 
 Most DIY motion alarms use cheap PIR (Passive Infrared) sensors that trigger every time a dog walks by or the wind blows a warm bush. We are going to build a completely different beast.
